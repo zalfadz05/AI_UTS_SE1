@@ -1,6 +1,6 @@
 |       |                                   |
 | ----- | --------------------------------- |
-| Nama  | Zalfa Dewi Zahrani (312210316) |
+| Nama  | Zalfa Dewi Zahrani (312210320) |
 | Kelas | TI.22.A.SE.1                      |
 | Tugas | UTS Kecerdasan Buatan             |
 
